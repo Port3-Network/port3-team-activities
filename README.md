@@ -11,3 +11,13 @@ Port3 Team Activities
 [![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-yang&show_icons=true&theme=radical)](https://github.com/calvin-yang/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-yang)
+
+## Hardy
+[![Hardy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huadee1108&show_icons=true&theme=radical)](https://github.com/huadee1108/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huadee1108)
+
+## Warm
+[![Warm's GitHub stats](https://github-readme-stats.vercel.app/api?username=W123-T&show_icons=true&theme=radical)](https://github.com/W123-T/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W123-T)
