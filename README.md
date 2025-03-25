@@ -2,4 +2,7 @@
 Port3 Team Activities
 
 
-[![Anthonyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xanthonyx)](https://github.com/0xanthonyx/github-readme-stats)
+## Anthonyx
+[![Anthonyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xanthonyx&show_icons=true&theme=radical)](https://github.com/0xanthonyx/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xanthonyx)
