@@ -6,6 +6,7 @@ Port3 Team Activities
 
 ## Anthony
 Anthonyx - CTO
+Github ID: [0xanthonyx](https://github.com/0xanthonyx)
 
 <img width="778" alt="image" src="https://github.com/user-attachments/assets/d4cc31c7-641b-419f-9933-2dd8c86cc2b2" />
 
@@ -14,6 +15,8 @@ Anthonyx - CTO
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xanthonyx)
 
 ## Calvin
+Tech Lead
+Github ID: [calvin-yang](https://github.com/calvin-yang)
 ![telegram-cloud-photo-size-5-6276252606502389326-x](https://github.com/user-attachments/assets/f7e4d8f6-2f10-43ad-b2a7-5a719bb9ace2)
 
 
@@ -22,7 +25,7 @@ Anthonyx - CTO
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-yang)
 
 ## Hardy
-
+Github ID: [huadee1108](https://github.com/huadee1108)
 ![telegram-cloud-photo-size-5-6276252606502389301-x](https://github.com/user-attachments/assets/eacf8be7-4857-4c1a-b1ca-28219c8c6c6e)
 
 
